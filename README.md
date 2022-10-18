@@ -34,18 +34,18 @@ This is not an exhaustive list. Download and install the launcher to gauge all i
 
 ## Downloads
 
-You can download from [GitHub Releases](https://github.com/dscalzi/HeliosLauncher/releases)
+You can download from [GitHub Releases](https://github.com/efrei-craft/EfreiCraftLauncher/releases)
 
 #### Latest Release
 
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases/latest)
+[![](https://img.shields.io/github/release/efrei-craft/EfreiCraftLauncher.svg?style=flat-square)](https://github.com/efrei-craft/EfreiCraftLauncher/releases/latest)
 
 #### Latest Pre-Release
-[![](https://img.shields.io/github/release/dscalzi/HeliosLauncher/all.svg?style=flat-square)](https://github.com/dscalzi/HeliosLauncher/releases)
+[![](https://img.shields.io/github/release/efrei-craft/EfreiCraftLauncher/all.svg?style=flat-square)](https://github.com/efrei-craft/EfreiCraftLauncher/releases)
 
 **Supported Platforms**
 
-If you download from the [Releases](https://github.com/dscalzi/HeliosLauncher/releases) tab, select the installer for your system.
+If you download from the [Releases](https://github.com/efrei-craft/EfreiCraftLauncher/releases) tab, select the installer for your system.
 
 | Platform | File |
 | -------- | ---- |
@@ -86,8 +86,8 @@ This section details the setup of a basic developmentment environment.
 **Clone and Install Dependencies**
 
 ```console
-> git clone https://github.com/dscalzi/HeliosLauncher.git
-> cd HeliosLauncher
+> git clone https://github.com/efrei-craft/EfreiCraftLauncher.git
+> cd EfreiCraftLauncher
 > npm install
 ```
 
@@ -176,7 +176,7 @@ Note that you **cannot** open the DevTools window while using this debug configu
 
 Please give credit to the original author and provide a link to the original source. This is free software, please do at least this much.
 
-For instructions on setting up Microsoft Authentication, see https://github.com/dscalzi/HeliosLauncher/blob/master/docs/MicrosoftAuth.md.
+For instructions on setting up Microsoft Authentication, see https://github.com/efrei-craft/EfreiCraftLauncher/blob/master/docs/MicrosoftAuth.md.
 
 ---
 
@@ -184,7 +184,6 @@ For instructions on setting up Microsoft Authentication, see https://github.com/
 
 * [Wiki][wiki]
 * [Nebula (Create Distribution.json)][nebula]
-* [v2 Rewrite Branch (Inactive)][v2branch]
 
 The best way to contact the developers is on Discord.
 
@@ -200,7 +199,6 @@ The best way to contact the developers is on Discord.
 [mainprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Main Process'
 [rendererprocess]: https://electronjs.org/docs/tutorial/application-architecture#main-and-renderer-processes 'Renderer Process'
 [chromedebugger]: https://marketplace.visualstudio.com/items?itemName=msjsdiag.debugger-for-chrome 'Debugger for Chrome'
-[discord]: https://discord.gg/zNWUXdt 'Discord'
-[wiki]: https://github.com/dscalzi/HeliosLauncher/wiki 'wiki'
+[discord]: https://discord.gg/5kfu9D69AJ 'Discord'
+[wiki]: https://github.com/efrei-craft/EfreiCraftLauncher/wiki 'wiki'
 [nebula]: https://github.com/dscalzi/Nebula 'dscalzi/Nebula'
-[v2branch]: https://github.com/dscalzi/HeliosLauncher/tree/ts-refactor 'v2 branch'
